@@ -1,1 +1,1 @@
-# vanillaJS_drowing_board
+# vanillaJS_paints
