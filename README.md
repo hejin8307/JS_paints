@@ -2,8 +2,8 @@
 
 <p align="center">
   
-<img src="https://img.shields.io/badge/HTML5-red" />
-<img src="https://img.shields.io/badge/CSS3-blue" />
+<img src="https://img.shields.io/badge/HTML-5-red" />
+<img src="https://img.shields.io/badge/CSS-3-blue" />
 <img src="https://img.shields.io/badge/JavaScript-yellow" />
   
 <p align="center">
